@@ -1,4 +1,4 @@
-# Week 2 Sales Data Analysis
+# Week 2 Sales Data Analysis/ Data Collection & Nanagement
 
 ## 📊 Project Overview
 This project analyzes a sales dataset using Python (pandas) in Jupyter Notebook.It also includes an excel report  
