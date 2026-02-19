@@ -61,3 +61,6 @@ An Excel report (`Data Collection & Management.xlsx`) was generated summarizing:
 ## 🚀 How to Run This Project
 
 You can open the notebook and view it.
+
+#NB
+An excel report is also uploaded, it also contains a google colab link of the notebook
